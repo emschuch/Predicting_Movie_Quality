@@ -11,4 +11,4 @@ Read about the analysis portion of the project [here](http://emschuch.github.io/
 ####Technologies used:
 * Python
 * BeautifulSoup for web scraping
-* Linear regression
+* Linear regression for predictions
